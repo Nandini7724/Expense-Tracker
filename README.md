@@ -1,20 +1,20 @@
-** Expense Tracker**
+**Expense Tracker**
 
-** Overview**  
+**Overview**  
 A full-stack Expense Tracker application built using Spring Boot and React. It helps users manage and track daily expenses efficiently.
 
-** Features**  
+**Features**  
 - Add, update, and delete expenses  
 - View all expenses  
 - REST API integration  
 - Responsive user interface  
 
-** Tech Stack**  
+**Tech Stack**  
 - Frontend: React  
 - Backend: Spring Boot  
 - Database: SQL (MySQL)  
 
-** How to Run**  
+**How to Run**  
 
 **Backend (Spring Boot)**  
 Run the application → http://localhost:8080  
