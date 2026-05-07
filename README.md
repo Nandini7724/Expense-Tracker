@@ -12,7 +12,7 @@ A full-stack Expense Tracker application built using Spring Boot and React. It h
 **Tech Stack**  
 - Frontend: React  
 - Backend: Spring Boot  
-- Database: SQL (MySQL)  
+- Database: MySQL  
 
 **How to Run**  
 
